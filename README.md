@@ -5,7 +5,7 @@ a plain text format and script for writing music that can be easily converted in
 
 - staff (staves): five horizontal lines with four spaces between
   - 1-5 (1 is the bottom stave; 5 is the top)
-  - staff connectors (for multi instrument compositions)
+  - ensemble staves
   - measure lines
 - instrument
 - clef
